@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internet Connection Observer</string>
+    <string name="internet_base_dialog_title">Slow or no internet connections.</string>
+    <string name="internet_base_dialog_desc">Please check your internet settings.</string>
+</resources>
